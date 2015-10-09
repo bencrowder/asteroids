@@ -1,0 +1,37 @@
+body {
+	background: #000;
+}
+
+canvas {
+	background: #000;
+	border: solid 10px #111;
+	height: 600px;
+	width: 800px;
+}
+
+.blur {
+	-webkit-filter: blur(6px);
+	-moz-filter: blur(6px);
+	-ms-filter: blur(6px);
+	filter: blur(6px);
+}
+
+#wrapper {
+	height: 600px;
+	margin: 50px auto;
+	position: relative;
+	width: 800px;
+}
+
+#wrapper .message {
+	bottom: 0;
+	color: #fff;
+	display: none;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 3.7em;
+	left: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 230px;
+}
