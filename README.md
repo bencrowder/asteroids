@@ -5,8 +5,8 @@ A simple Asteroids clone written in JavaScript with HTML5 canvas. Shoot all the 
 
 ### Keys
 
-- `p`: pause
-- `left arrow`: rotate left
-- `right arrow`: rotate right
-- `up arrow`: go forward
-- `space`: shoot
+- `p` -- pause
+- `left arrow` -- rotate left
+- `right arrow` -- rotate right
+- `up arrow` -- go forward
+- `space` -- shoot
